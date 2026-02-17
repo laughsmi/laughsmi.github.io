@@ -3,10 +3,10 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: Terrabytes
+title: LaugHSMI
 # title-icon:  "terrabytes-logo"
 # description: "Towards global datasets and models for Earth Observation"
-featured-image: "terrabytes-logo"
+# featured-image: "terrabytes-logo"
 
 ##########
 # URL VARIABLES [optional!!]
