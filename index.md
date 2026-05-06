@@ -11,13 +11,13 @@ layout: page
   <a class="button btn btn-dark" href="#sponsors">Sponsors</a>
 </div>
 
-**📅 When:** 5-9 October 2026
+**📅 When:** 9th of October 2026
 
 **📍 Where:** Naples, Italy
 
 **Conference:** [ICMI 2026](https://icmi.acm.org/2026/)
 
-**Submission website:** TBA
+**Submission website:** [OpenReview](https://openreview.net/group?id=ACM.org/ICMI/2026/Workshop/LaugHSMI)
 
 ### About the workshop
 
@@ -115,7 +115,7 @@ We are inviting distinguished speakers from academia and industry working on lau
 
 **To Be Announced**
 
-**Primary Contacts**: [Workshop Mail](mailto:laughsmi@gmail.com)
+**Primary Contacts**: [Workshop Mail](mailto:laughsmi_orga@googlegroups.com)
 
 <h3 id="sponsors">Sponsors</h3>
 ------
