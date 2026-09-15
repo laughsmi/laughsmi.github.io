@@ -18,8 +18,7 @@ layout: page
 <!-- **Submission website:** [OpenReview](https://openreview.net/group?id=ACM.org/ICMI/2026/Workshop/LaugHSMI) -->
 
 ### About the workshop
-
-LaugHSMI (Laughter, Humour, Smiles in Multimodal Interactions) is a workshop dedicated to advancing research on the role of laughter, smiles, and humor in human-computer interaction and multimodal communication. These phenomena are fundamental aspects of human social interaction, yet they remain challenging to detect, interpret, and generate in computational systems.
+**LaugHSMI** (Laughter, Humour, Smiles in Multimodal Interactions) is a workshop dedicated to advancing research on the role of laughter, smiles, and humor in human-computer interaction and multimodal communication. These phenomena are fundamental aspects of human social interaction, yet they remain challenging to detect, interpret, and generate in computational systems.
 
 Laughter and smiling serve multiple communicative functions beyond expressing amusement—they facilitate social bonding, regulate conversation flow, signal understanding, and convey complex emotional states. Humor adds another layer of complexity, involving cognitive, linguistic, and cultural dimensions. Understanding and modeling these phenomena is crucial for creating more natural, engaging, and socially intelligent interactive systems.
 
@@ -28,15 +27,36 @@ This workshop brings together researchers from affective computing, natural lang
 
 <h3 id="schedule">Program</h3>
 ---
+*The program below is tentative and is subject to change.*
 
-**To Be Announced**
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                 |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 09:00&#8288;&#8211;&#8288;09:05 | Introduction                                                                                                                                                                       |
+| 09:05&#8288;&#8211;&#8288;10:00 | **Keynote:** [Hayley Hung](#hayley) (chair: TBD)                                                                                                                                   |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 10:00&#8288;&#8211;&#8288;10:30 | Coffee break                                                                                                                                                                       |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                 | **Morning session** (chair: TBD)                                                                                                                                                   |
+| 10:30&#8288;&#8211;&#8288;10:50 | *Luca Bischetti*, 'Do funny parents raise funny children? Parental affiliative humor and humor precocity in infancy and toddlerhood'                                               |
+| 10:50&#8288;&#8211;&#8288;11:10 | *Vladislav Maraev, Erik Lagerstedt, Christine Howes, Catherine Pelachaud*, 'Investigating the effects of agent-produced paralinguistic respirations associated with apologies'     |
+| 11:10&#8288;&#8211;&#8288;11:30 | *Yingqin Hu, Elizaveta Sirotina, Vladislav Maraev, Catherine Pelachaud*, 'Toward Adaptive Laughing Agents: Lessons from the Red Ball Game'                                         |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 11:30&#8288;&#8211;&#8288;12:25 | **Keynote:** [Chiara Mazzocconi](#chiara) (chair: TBD)                                                                                                                             |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 12:30&#8288;&#8211;&#8288;13:30 | Lunch break                                                                                                                                                                        |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                 | **Afternoon session** (chair: TBD)                                                                                                                                                 |
+| 13:30&#8288;&#8211;&#8288;13:50 | *Xinyan Ye, Gwyneth Phang, Anandha Gopalan, Abbas Edalat*, 'Embodied Empathy: A Multimodal AR and LLM-Powered System for Self-Attachment Psychotherapy with Self‑Initiated Humour' |
+| 13:50&#8288;&#8211;&#8288;14:10 | *Sofia Callejas, Catherine Pelachaud, Brian Ravenet, Valentin Barriere*, 'Decoding Humor in Stand-up Comedy: A Multilingual and Multimodal Sequence Labeling Approach'             |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 14:10&#8288;&#8211;&#8288;14:30 | General Discussion & Closing remarks                                                                                                                                               |
 
-The detailed program will be published after paper acceptance decisions.
 
 <h3 id="speakers">Keynote Speakers</h3>
 ---
 
-#### Chiara Mazzocconi
+#### <a name="chiara"></a>Chiara Mazzocconi
 INSERM, Institut de Neurosciences des Systémes, Aix–Marseille Université, Marseille, France
 & 
 CNRS, ILCB, Institute of Language, Communication, and the Brain, Aix-en-Provence, France
@@ -82,7 +102,7 @@ conversation. Her current research focuses particularly on
 interpersonal dynamics in typical and atypical neurodevelopment,
 including autism and deaf and hard-of-hearing populations.
 
-#### Hayley Hung
+#### <a name="hayley"></a>Hayley Hung
 
 Technical University of Delft, Netherlands
 
